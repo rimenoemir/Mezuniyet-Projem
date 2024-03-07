@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 VERCEL ADRESİM https://vercel.com/rimenos-projects
+Çalıştırmak için: 
+npm install
+npm start
 //Revize için elimden geleni yaptım api bilgileri home.jsx içerisinde 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
