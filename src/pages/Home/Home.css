@@ -1,0 +1,7 @@
+.home-page header {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.451), rgb(14, 9, 168)), url(../../utils/images/aw859099-02-5dd3a4ac7c07b.jpg);
+}
+header {
+    background-size: cover;
+    background-position: center;
+}
