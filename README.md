@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 VERCEL ADRESİM https://vercel.com/rimenos-projects
+Vercelde çalıştığı zaman apiyi algılamıyor vscode üzerinden çalışıyor 
+Api key:AIzaSyAhJyFH53qvGl_kRRjq900hHWWOrQkNdv4
 Çalıştırmak için: 
 npm install
 npm start
